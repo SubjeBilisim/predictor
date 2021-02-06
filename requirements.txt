@@ -1,0 +1,9 @@
+numpy==1.19.5
+pandas==1.2.0
+tensorflow-gpu==2.4.0
+keras==2.4.3
+matplotlib==3.3.3
+tensorflow==2.4.0
+pytz==2020.5
+requests==2.25.1
+alpha-vantage==2.3.1
